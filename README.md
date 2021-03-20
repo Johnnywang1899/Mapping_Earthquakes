@@ -1,2 +1,2 @@
 # Mapping_Earthquakes
-JavaScript, D3, Leaflet, Mapbox
+JavaScript, D3, Leaflet, Mapbox, GeoJSON
